@@ -1,2 +1,5 @@
-it is basically a clone of amazon.com, the US version
-we used HTML and CSS to build this.
+# AMAZON CLONE using HTML and CSS
+
+Interface of Amazon.us using basic frontend
+
+Languages used: HTML, CSS
